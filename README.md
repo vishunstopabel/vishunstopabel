@@ -2,7 +2,7 @@
 
 I am a passionate developer driven by a love for solving new problems and an insatiable hunger for exploring new technologies. My journey in tech involves building scalable websites and robust backend systems, with a strong inclination towards backend development, though I'm skilled in front-end as well.
 
-![Vishwa's Stats](https://github-readme-stats.vercel.app/api?username=Vishwa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Vishwa's Stats](https://github-readme-stats.vercel.app/api?username=vishunstopabel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
