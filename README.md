@@ -19,12 +19,11 @@ I am a passionate developer driven by a love for solving new problems and an ins
 
 ## 🌱 Currently Exploring
 
-- 🚀 Diving deeper into **GraphQL** for more effective data management.
-- Expanding my expertise in **SQL databases** for scalable backend solutions.
-- Learning about **DevOps tools** to optimize deployments and infrastructure.
+- 🚀 Diving deeper into **backend technologies** for more effective system design.
+- Expanding my expertise in **DevOps tools** to optimize deployments and infrastructure.
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [Instagram](https://instagram.com/pastevishwa)
 
 Thanks for stopping by! Let's collaborate and explore the ever-evolving world of technology together. 🚀
