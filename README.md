@@ -10,6 +10,10 @@ I am a passionate developer driven by a love for solving new problems and an ins
 - ✨ Currently enhancing my knowledge of SQL databases and DevOps tools for scaling applications.
 - 🔧 Working on an open-source page-based UI library with input-based functionality, focusing on backend efficiency.
 
+## My Contributions
+
+- 📈 Over **305 contributions** in the last year, showcasing my dedication to open-source and continuous learning.
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,mongodb,c,redis,docker,kafka,nginx,graphql)](https://skillicons.dev)
 
