@@ -7,8 +7,8 @@ I am a passionate developer driven by a love for solving new problems and an ins
 ## 🚀 About Me
 
 - 🌱 Full Stack Developer (MERN) exploring advanced backend technologies.
-- ✨ Currently enhancing my knowledge of SQL databases and DevOps tools for scaling applications.
-- 🔧 Working on an open-source page-based UI library with input-based functionality, focusing on backend efficiency.
+- ✨ Currently working on DevOps tools for scaling applications.
+- 🔧 Working on an open-source page-based UI library with input-based functionality, focusing on backend coders.
 
 ## My Contributions
 
