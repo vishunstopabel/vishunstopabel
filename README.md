@@ -15,7 +15,7 @@ I am a passionate developer driven by a love for solving new problems and an ins
 - 📈 Over **305 contributions** in the last year, showcasing my dedication to open-source and continuous learning.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,mongodb,c,redis,docker,kafka,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,react,mongodb,c,redis,docker,rabitmq,nginx,reactnative)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
